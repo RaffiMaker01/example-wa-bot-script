@@ -16,7 +16,7 @@ module.exports = {
   mode: 'both', // Private, Group, Both/All
   public_mode: true,
   offline_status: false,
-  auto_update_profile_status: false,
+  auto_update_profile_status: true,
   auto_read_messages: true,
   auto_typing: true,
   auto_recording: false,
@@ -27,7 +27,7 @@ module.exports = {
   },
   owner: {
     name: ["Owner Name"],
-    number: ["628xxx"]
+    number: ["6287745690302"]
   }
   date: {
     country: 'id-ID',
