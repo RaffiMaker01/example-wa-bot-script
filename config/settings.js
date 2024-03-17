@@ -27,7 +27,7 @@ module.exports = {
   },
   owner: {
     name: ["Owner Name"],
-    number: ["628xxx"]
+    number: ["6287745690302"]
   }
   date: {
     country: 'id-ID',
